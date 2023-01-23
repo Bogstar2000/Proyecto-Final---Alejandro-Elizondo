@@ -23,6 +23,7 @@ h1{
     height: 80px;
     background-color: grey;
     outline: none;
+    border: none;
     font-size: 50px;
     text-align: center;
     text-transform: uppercase;
